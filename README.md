@@ -24,7 +24,7 @@ I enjoy solving real-world problems using **Machine Learning, Deep Learning, and
 ## 🛠 Language and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,mongodb,git,github,tensorflow,opencv,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git,github,tensorflow,opencv,vscode,jupyter" />
 </p>
 
 ---
