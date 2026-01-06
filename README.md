@@ -21,15 +21,11 @@ I enjoy working on **real-world datasets**, designing **intelligent systems**, a
 
 🎯 **Actively applying for AI/ML Internships & Entry-Level Roles**
 
----
-
 ## 🛠 Language & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git,github,tensorflow,opencv,vscode,jupyter" />
 </p>
-
----
 
 ## 🔥 My Stats
 
@@ -38,8 +34,6 @@ I enjoy working on **real-world datasets**, designing **intelligent systems**, a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jairamgolla07&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
