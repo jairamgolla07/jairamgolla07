@@ -13,8 +13,6 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I am a **final-year B.Tech student specializing in Artificial Intelligence and Machine Learning** with hands-on experience building **end-to-end ML and Deep Learning solutions**.
