@@ -1,7 +1,7 @@
 <h1 align="center">hey there 👋 i'm jai ram</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="160" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/jairamgolla07" width="160" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -91,17 +91,11 @@ I enjoy working on **real-world datasets**, designing **intelligent systems**, a
 
 ## 🔥 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairamgolla07&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jairamgolla07&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jairamgolla07&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=jairamgolla07&theme=tokyonight)
 
 ---
 
