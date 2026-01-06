@@ -1,11 +1,15 @@
 <h1 align="center">hey there 👋 i'm jai ram</h1>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="160" style="border-radius:50%;" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jairamgolla">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:jairamgolla03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
 </p>
 
@@ -13,15 +17,27 @@
 
 ## 👨‍💻 About Me
 
-I am a **final-year B.Tech student specializing in Artificial Intelligence and Machine Learning** with a strong interest in building **data-driven and intelligent systems**.
+I am a **final-year B.Tech student specializing in Artificial Intelligence and Machine Learning** with hands-on experience building **end-to-end ML and Deep Learning solutions**.
 
-I enjoy solving real-world problems using **Machine Learning, Deep Learning, and Computer Vision**, and I have hands-on experience developing **end-to-end ML solutions** and deploying them as interactive applications.
+I enjoy working on **real-world datasets**, designing **intelligent systems**, and deploying models into **interactive applications**.
 
-🎯 Currently applying for **AI/ML Internships & Entry-Level Roles**
+🎯 **Actively applying for AI/ML Internships & Entry-Level Roles**
 
 ---
 
-## 🛠 Language and Tools
+## 🧠 AI / ML Focus Areas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=orange">
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=green">
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=google&logoColor=blue">
+  <img src="https://img.shields.io/badge/CNN-111827?style=for-the-badge&logo=keras&logoColor=red">
+</p>
+
+---
+
+## 🛠 Language & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git,github,tensorflow,opencv,vscode,jupyter" />
@@ -31,43 +47,59 @@ I enjoy solving real-world problems using **Machine Learning, Deep Learning, and
 
 ## 🚀 Projects
 
-### 🔹 Car Price Prediction (Machine Learning)
-- Built regression models using **Linear Regression, Random Forest, Gradient Boosting, and XGBoost**
-- Achieved **R² score of 0.89** using XGBoost
-- Deployed model using **Streamlit** for real-time predictions
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Car Price Prediction</h3>
+  <img src="https://user-images.githubusercontent.com/placeholder/car-ml.png" />
+  <p>
+    🔹 Built regression models using XGBoost, Random Forest, and Gradient Boosting<br>
+    🔹 Achieved <b>R² score of 0.89</b><br>
+    🔹 Deployed using <b>Streamlit</b>
+  </p>
+</td>
 
-### 🔹 Wake Watch – Drowsiness Detection (Deep Learning)
-- Developed real-time drowsiness detection system using **CNNs and Computer Vision**
-- Analyzed facial cues using **OpenCV and NumPy**
-- Designed to improve **driver safety**
+<td width="50%">
+  <h3 align="center">Wake Watch – Drowsiness Detection</h3>
+  <img src="https://user-images.githubusercontent.com/placeholder/drowsiness.png" />
+  <p>
+    🔹 CNN-based real-time detection system<br>
+    🔹 Computer Vision using OpenCV & NumPy<br>
+    🔹 Enhances <b>driver safety</b>
+  </p>
+</td>
+</tr>
+</table>
+
+📌 **Tip:** Replace image URLs with screenshots from your project repos.
 
 ---
 
 ## 💼 Experience
 
-**Machine Learning Intern – Teachnook**
-- Worked on real-world ML problems
-- Implemented supervised learning models using Python & scikit-learn
-- Hands-on experience with data preprocessing and evaluation
+**Machine Learning Intern – Teachnook**  
+- Built supervised ML models using Python and scikit-learn  
+- Worked on data preprocessing, feature engineering, and evaluation  
+- Gained real-world ML pipeline experience  
 
 ---
 
 ## 🏆 Certifications
 
-- 🎓 NPTEL – Programming in Java (With Distinction)
 - 🧠 Python Web Development – ICT Academy (Infosys Foundation Initiative)
+- 🎓 NPTEL – Programming in Java (With Distinction)
 
 ---
 
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairamgolla07&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jairamgolla07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jairamgolla07&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=jairamgolla07&theme=tokyonight" />
 </p>
 
 ---
@@ -76,11 +108,8 @@ I enjoy solving real-world problems using **Machine Learning, Deep Learning, and
 
 - 📍 Hyderabad, India  
 - 💼 LinkedIn: https://www.linkedin.com/in/jairamgolla  
-- 💻 GitHub: https://github.com/jairamgolla07  
 - 📧 Email: jairamgolla03@gmail.com  
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jairamgolla07&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=jairamgolla07&style=flat-square&color=0A66C2" />
 </p>
