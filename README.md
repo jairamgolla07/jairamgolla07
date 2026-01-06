@@ -71,8 +71,6 @@ I enjoy working on **real-world datasets**, designing **intelligent systems**, a
 </tr>
 </table>
 
-📌 **Tip:** Replace image URLs with screenshots from your project repos.
-
 ---
 
 ## 💼 Experience
@@ -95,6 +93,9 @@ I enjoy working on **real-world datasets**, designing **intelligent systems**, a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jairamgolla07&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairamgolla07&layout=compact&theme=tokyonight" />
 </p>
 
